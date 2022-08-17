@@ -4,4 +4,4 @@
 
 ## Tecnologias usadas
 * Python
-* OpenCv - Biblioteca de computação visual
+* OpenCv - Biblioteca de visão computacional
