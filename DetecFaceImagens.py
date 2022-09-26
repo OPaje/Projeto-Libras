@@ -13,3 +13,4 @@ for(x, y, w, h) in faces:
 
 cv2.imshow(str(len(faces))+' face(s) encontrada(s).', img)
 cv2.waitKey(0)
+
