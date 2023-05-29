@@ -1,6 +1,6 @@
 # Projeto-Libras ✌️
 
-### Escrever a descrição do projeto aqui
+### Sistema de captura de movimentos para tradução simultânea de libras
 
 ## Tecnologias usadas
 * Python
